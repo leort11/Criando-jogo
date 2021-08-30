@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"spr_inimigo_1","path":"sprites/spr_inimigo_1/spr_inimigo_1.yy",},"order":1,},
     {"id":{"name":"spr_personagem","path":"sprites/spr_personagem/spr_personagem.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
