@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"spr_personagem_andando","path":"sprites/spr_personagem_andando/spr_personagem_andando.yy",},"order":2,},
+    {"id":{"name":"spr_personagem_1","path":"sprites/spr_personagem_1/spr_personagem_1.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
